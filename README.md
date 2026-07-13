@@ -2,7 +2,7 @@
 
 **Your temple of creativity.**
 
-*(formerly Qiyva Writer, formerly Mira Writing)* **I'M NOT CHANGING THIS NAME AGAIN**
+*(formerly Qiyva Writer, formerly Mira Writing)* 
 
 
 Qenna Writer is a text editor and multi-document manager, built entirely
