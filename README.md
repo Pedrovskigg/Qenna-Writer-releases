@@ -268,6 +268,13 @@ languages will come in the future.
 Qenna Writer's source code can be found in
 [this repository](https://github.com/Pedrovskigg/qenna-writer).
 
+## Contact
+
+To report bugs, suggest new features or just scream about your plot at
+3:00 AM: `qennawriter@gmail.com`
+I can take a few hours or days to answer, but I will! I promise!
+Or you can reach me on GitHub as well, on Qenna's repository.
+
 ---
 
 Try it, create, have fun, and let me know what you think. Made by one
