@@ -260,7 +260,8 @@ so you can always verify what it does.
 
 ## Languages
 
-Qenna Writer is currently available in **PT-BR**, **EN-US**, and **ES**.
+Qenna Writer is currently available in **PT-BR**, **EN-US**, **ES**,
+**IT**, and **FR**.
 Other languages will come in the future.
 
 ## Source code
