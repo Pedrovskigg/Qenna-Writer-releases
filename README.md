@@ -1,4 +1,4 @@
-<img width="1530" height="658" alt="splash-3" src="https://github.com/user-attachments/assets/287571c8-f6c7-4bb4-9421-be630916e61e" />
+<img width="1600" height="485" alt="Qenna Writer" src="img/qenna-logo.webp" />
 
 **Your temple of creativity.**
 
