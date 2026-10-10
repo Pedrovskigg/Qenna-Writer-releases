@@ -48,7 +48,7 @@ Now let's talk about what it offers — and why you need it.
 Set the title, genres, and cover. Choose what it is: a book or a
 screenplay?
 
-<img width="718" height="567" alt="Qenna Writer - create a new novel or screenplay project" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-newproject.webp" />
+<img width="652" height="530" alt="Qenna Writer - project sheet with cover, author, genres and synopsis" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-newproject.webp" />
 
 ## The text editor
 
@@ -106,7 +106,7 @@ recall whenever you need it. Never forget what they said — or where they
 said it.
 
 <img width="365" height="801" alt="Qenna Writer - character relationship and bonds graph for novelists" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/bonds.webp" />
-<img width="375" height="632" alt="Qenna Writer - automatic character dialogue log, filtered by speaker" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/dialogo.webp" />
+<img width="440" height="244" alt="Qenna Writer - automatic character dialogue log, each line under whoever said it" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/dialogo.webp" />
 
 ## Stay consistent with just a few clicks
 
@@ -124,7 +124,9 @@ Consistency isn't just for characters anymore, either — Object and Setting
 drawers now get their own presence tracking too, so you can check exactly
 where a prop or a location was actually used across your manuscript.
 
-<img width="380" height="245" alt="Qenna Writer - Pensarium, a memory and notes tool for writers" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-note.webp" />
+<img width="439" height="243" alt="Qenna Writer - Pensarium, a memory and notes tool for writers" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-note.webp" />
+<img width="445" height="209" alt="Qenna Writer - Pensarium memories: passages saved for later, with their chapter" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-memories.webp" />
+<img width="806" height="319" alt="Qenna Writer - comment on a highlighted passage, with an option to turn it into a task" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-comment.webp" />
 
 ## Build your story and your world
 
@@ -146,7 +148,8 @@ beautifully chaotic? You decide.
 Everything you build on the Board — every card, planning area, comment —
 can be exported straight into drawers.
 
-<img width="1300" height="690" alt="Qenna Writer - The Board, a corkboard plotting tool for novelists" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-board.webp" />
+<img width="1300" height="693" alt="Qenna Writer - The Board, a corkboard plotting tool for novelists" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-board.webp" />
+<img width="1300" height="700" alt="Qenna Writer - The Board: scene-by-scene notes and film stills planning a whole act" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-board-act.webp" />
 
 ### 2. The Builder
 
@@ -182,7 +185,7 @@ Create as many timelines and events as you want, using markers to keep
 everything in the order you need. Watch your project's past and present
 unfold in real time — while you plan the future.
 
-<img width="1100" height="662" alt="Qenna Writer - story timeline built from the dates already in your chapters" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-timeline.webp" />
+<img width="1300" height="684" alt="Qenna Writer - story timeline built from the dates already in your chapters, with branching lines" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-timeline.webp" />
 <img width="1100" height="673" alt="Qenna Writer - story timeline, spiral view" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/timeline-espiral.webp" />
 
 ## See the whole manuscript at once
@@ -221,7 +224,7 @@ Set your goals freely, too. Time-based? Word-based? Your call. Run writing
 sprints with Pomodoro and lock in your focus.
 
 <img width="564" height="926" alt="Qenna Writer - project statistics: character participation, words per chapter, project summary" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-stats.webp" />
-<img width="462" height="315" alt="Qenna Writer - writing goals progress calendar and streaks" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-streak.webp" />
+<img width="462" height="305" alt="Qenna Writer - writing goals progress calendar and streaks" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-streak.webp" />
 
 <img width="554" height="674" alt="Qenna Writer - character statistics: scenes and chapters they appear in, lines detected, words spoken, and who they share the page with most" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-stats2.webp" />
 
@@ -246,14 +249,16 @@ music to help you lose yourself in your writing. You can add your own
 custom sounds too.
 
 
-**Make it yours!** — Qenna Writer comes with 286 built-in Themes by
+**Make it yours!** — Qenna Writer comes with 382 built-in Themes by
 default. That's Themes for days — nobody's got anything to complain about.
 But on the off chance none of them speak to you, feel free to build your
 own custom Themes! Background images, editor color, panel color, text
 color — everything is customizable and within reach.
 
-<img width="799" height="992" alt="Qenna Writer - 286 built-in themes, with search by name and favourites" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-themes.webp" />
-<img width="798" height="991" alt="Qenna Writer - the Patterned filter: themes with photographic backgrounds" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-patterns.webp" />
+<img width="1198" height="759" alt="Qenna Writer - 382 built-in themes, with search, categories and a preview of each one" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-themes.webp" />
+<img width="1196" height="726" alt="Qenna Writer - the Patterned filter: themes with photographic backgrounds" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-patterns.webp" />
+<img width="1001" height="736" alt="Qenna Writer - the Theme Creator: background image, gradient, vignette and grain" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-theme-creator.webp" />
+<img width="1199" height="720" alt="Qenna Writer - two themes compared side by side before switching" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-compare.webp" />
 <img width="1300" height="682" alt="Qenna Writer - Focus Mode: every bar hidden, only the page left" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-focus.webp" />
 
 **The Cover Creator** — a tool for designing covers for your project,
