@@ -10,6 +10,62 @@ for the craft of creative writing.
 
 ### [⬇ Download the latest version](https://github.com/Pedrovskigg/Qenna-Writer-releases/releases/latest)
 
+---
+
+The market for writing software has become an expensive land grab —
+countless options, lots of money involved, subscriptions, paywalls,
+premium features. They charge you for things that should already be there,
+for things your story deserves to have.
+
+Going in the exact opposite direction, Qenna Writer exists to make this
+craft democratic. Everyone should have the right to every tool they need to
+write their stories — whatever those stories may be.
+
+And that's where this program was born.
+
+You shouldn't have to pay to write good stories, or pay for the tools that
+help you write them. The only payment Qenna Writer asks for is: write good
+stories.
+
+Now let's talk about what it offers — and why you need it.
+
+## Table of contents
+
+- [Create your project](#create-your-project)
+- [The text editor](#the-text-editor)
+- [New in 1.5: the Map](#new-in-15-the-map)
+- [Organize whatever you want](#organize-whatever-you-want)
+- [Build, explore, and track your characters](#build-explore-and-track-your-characters)
+- [Stay consistent with just a few clicks](#stay-consistent-with-just-a-few-clicks)
+- [Build your story and your world](#build-your-story-and-your-world)
+- [Manage your writing](#manage-your-writing)
+- [Additional features](#additional-features)
+- [Installing on Windows](#installing-on-windows)
+- [Languages](#languages)
+- [Source code](#source-code)
+
+## Create your project
+
+Set the title, genres, and cover. Choose what it is: a book or a
+screenplay?
+
+<img width="652" height="530" alt="Qenna Writer - project sheet with cover, author, genres and synopsis" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-newproject.webp" />
+
+## The text editor
+
+Fully personalizable and customizable, Qenna Writer's text editor is built
+for more than just the basics. With Focus Mode, the editor becomes a
+distraction-free, fully comfortable space designed for one thing only:
+letting your ideas flow. No worries, no clutter.
+
+It also offers a range of direct, precise tools for building your story.
+Create annotations, leave comments, and even generate new documents
+straight from your text. Add images, tag other documents for quick
+reference with `@`, and much more.
+
+<img width="1300" height="682" alt="Qenna Writer - distraction-free novel writing editor, dark theme with a photographic background" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-neon.webp" />
+<img width="1200" height="635" alt="Qenna Writer - distraction-free novel writing editor, light theme" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-light.webp" />
+
 ## NEW IN 1.5: THE MAP
 
 <img width="1500" height="880" alt="Qenna Writer's Map: a generated continent with mountains, forests, roads, cities and kingdoms, seen at an angle in the afternoon" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-full.webp" />
@@ -66,62 +122,6 @@ at 1×, 2× or 3×, ready for the book.
 
 This is just the beginning. This tool will get even more turbocharged in the
 next versions. Wait and see.
-
----
-
-The market for writing software has become an expensive land grab —
-countless options, lots of money involved, subscriptions, paywalls,
-premium features. They charge you for things that should already be there,
-for things your story deserves to have.
-
-Going in the exact opposite direction, Qenna Writer exists to make this
-craft democratic. Everyone should have the right to every tool they need to
-write their stories — whatever those stories may be.
-
-And that's where this program was born.
-
-You shouldn't have to pay to write good stories, or pay for the tools that
-help you write them. The only payment Qenna Writer asks for is: write good
-stories.
-
-Now let's talk about what it offers — and why you need it.
-
-## Table of contents
-
-- [New in 1.5: the Map](#new-in-15-the-map)
-- [Create your project](#create-your-project)
-- [The text editor](#the-text-editor)
-- [Organize whatever you want](#organize-whatever-you-want)
-- [Build, explore, and track your characters](#build-explore-and-track-your-characters)
-- [Stay consistent with just a few clicks](#stay-consistent-with-just-a-few-clicks)
-- [Build your story and your world](#build-your-story-and-your-world)
-- [Manage your writing](#manage-your-writing)
-- [Additional features](#additional-features)
-- [Installing on Windows](#installing-on-windows)
-- [Languages](#languages)
-- [Source code](#source-code)
-
-## Create your project
-
-Set the title, genres, and cover. Choose what it is: a book or a
-screenplay?
-
-<img width="652" height="530" alt="Qenna Writer - project sheet with cover, author, genres and synopsis" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-newproject.webp" />
-
-## The text editor
-
-Fully personalizable and customizable, Qenna Writer's text editor is built
-for more than just the basics. With Focus Mode, the editor becomes a
-distraction-free, fully comfortable space designed for one thing only:
-letting your ideas flow. No worries, no clutter.
-
-It also offers a range of direct, precise tools for building your story.
-Create annotations, leave comments, and even generate new documents
-straight from your text. Add images, tag other documents for quick
-reference with `@`, and much more.
-
-<img width="1300" height="682" alt="Qenna Writer - distraction-free novel writing editor, dark theme with a photographic background" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-neon.webp" />
-<img width="1200" height="635" alt="Qenna Writer - distraction-free novel writing editor, light theme" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-light.webp" />
 
 ## Organize whatever you want
 
