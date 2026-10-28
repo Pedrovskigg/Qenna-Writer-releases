@@ -10,6 +10,63 @@ for the craft of creative writing.
 
 ### [⬇ Download the latest version](https://github.com/Pedrovskigg/Qenna-Writer-releases/releases/latest)
 
+## NEW IN 1.5: THE MAP
+
+<img width="1500" height="880" alt="Qenna Writer's Map: a generated continent with mountains, forests, roads, cities and kingdoms, seen at an angle in the afternoon" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-full.webp" />
+
+Yes. Qenna Writer now has a map maker. And not just any map maker.
+
+Generate a whole continent from a seed, or draw one by hand, exactly the way
+your story demands. The terrain is real relief: there's no .png of a mountain
+standing in for mountains here. **Your mountain really is a MOUNTAIN**, made
+from the map's elevation. Altitude, latitude and humidity decide the climate
+and the biome of every patch of ground, and the rivers, coasts and forests
+follow from there.
+
+Seriously, if Tolkien had seen this while writing LOTR, he'd have had a fit.
+
+### Build on it
+
+Castles in a dozen styles (human, Norman, moated, château, clifftop, elven,
+dwarven, orc...), landmarks, legends, ships, sea monsters, and brushes that
+paint whole cities and forests. Pick a piece, click where it goes. It sits on
+the relief, and the hill in front hides what stands behind it.
+
+<img width="1500" height="880" alt="Qenna Writer's Map - the Build catalog open with castle styles" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-build.webp" />
+<img width="1500" height="880" alt="Qenna Writer's Map - a close view at dusk with castles, a cathedral, roads and forests" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-close.webp" />
+
+### Your world, inside your map
+
+Your map isn't just a visual reference. It's **interactive**, and it tells
+**the story of your world**.
+
+Every territory is a group in your project. Click it on the map and its
+documents open right there: the laws, the roads, the people who live there,
+readable and editable without leaving the map. Name a castle and it becomes a
+place of its own, inside the kingdom. A royal family lives inside the castle;
+a merchant guild can be marked as active in every territory it reaches. Drag
+a document onto a group to move it there.
+
+<img width="1500" height="880" alt="Qenna Writer's Map - Explore mode: a kingdom outlined, the tree of groups and a document open beside the map" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-explore.webp" />
+
+### Day, night, and every way to see it
+
+The clock runs, and at night the windows, torches and lighthouses light up.
+And when you want it to look like the map at the front of a book: Ink,
+Parchment, Nautical chart, Topographic, Watercolor and War plan.
+
+<img width="1500" height="880" alt="Qenna Writer's Map at night, with the cities lit up" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-night.webp" />
+<img width="1500" height="880" alt="Qenna Writer's Map in the Ink view: black ink and hatching on cream paper" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-ink.webp" />
+<img width="1500" height="880" alt="Qenna Writer's Map in the Parchment view" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-parch.webp" />
+<img width="1500" height="880" alt="Qenna Writer's Map in the Nautical chart view" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-chart.webp" />
+
+And also: maps from an island to a continent, several maps in the same
+project, a ruler that measures distance and travel time, and **PNG export**
+at 1×, 2× or 3×, ready for the book.
+
+This is just the beginning. This tool will get even more turbocharged in the
+next versions. Wait and see.
+
 ---
 
 The market for writing software has become an expensive land grab —
@@ -31,6 +88,7 @@ Now let's talk about what it offers — and why you need it.
 
 ## Table of contents
 
+- [New in 1.5: the Map](#new-in-15-the-map)
 - [Create your project](#create-your-project)
 - [The text editor](#the-text-editor)
 - [Organize whatever you want](#organize-whatever-you-want)
@@ -261,11 +319,11 @@ color — everything is customizable and within reach.
 <img width="1199" height="720" alt="Qenna Writer - two themes compared side by side before switching" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-compare.webp" />
 <img width="1300" height="682" alt="Qenna Writer - Focus Mode: every bar hidden, only the page left" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-focus.webp" />
 
-**The Cover Creator** — a tool for designing covers for your project,
-simply and intuitively. With a gallery of copyright-free images, you get
-the creative freedom to design a cover that actually stands out. People
-still judge books by their covers — so make it count! *Note: Cover
-Creator is available as a download during Qenna Writer's installation.*
+**Quick cover** — design your project's cover right inside Qenna Writer.
+Pick from the royalty-free photos, add a gradient and grain, and set your
+title and name in any of the bundled fonts, on one line or two. People
+still judge books by their covers — so make it count! *(The old standalone
+Cover Creator was discontinued in 1.5.)*
 
 
 ## Installing on Windows
