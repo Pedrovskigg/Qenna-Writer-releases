@@ -10,6 +10,8 @@ for the craft of creative writing.
 
 ### [⬇ Download the latest version](https://github.com/Pedrovskigg/Qenna-Writer-releases/releases/latest)
 
+[Windows 10/11](https://github.com/Pedrovskigg/Qenna-Writer-releases/releases/latest/download/qenna-writer-setup.exe) · [macOS 12 or later](https://github.com/Pedrovskigg/Qenna-Writer-releases/releases/latest/download/qenna-writer-mac.dmg)
+
 ---
 
 The market for writing software has become an expensive land grab —
@@ -33,7 +35,8 @@ Now let's talk about what it offers — and why you need it.
 
 - [Create your project](#create-your-project)
 - [The text editor](#the-text-editor)
-- [New in 1.5: the Map](#new-in-15-the-map)
+- [The Map](#the-map)
+- [New in 2.0: the Galaxy Map](#new-in-20-the-galaxy-map)
 - [Organize whatever you want](#organize-whatever-you-want)
 - [Build, explore, and track your characters](#build-explore-and-track-your-characters)
 - [Stay consistent with just a few clicks](#stay-consistent-with-just-a-few-clicks)
@@ -41,6 +44,7 @@ Now let's talk about what it offers — and why you need it.
 - [Manage your writing](#manage-your-writing)
 - [Additional features](#additional-features)
 - [Installing on Windows](#installing-on-windows)
+- [Installing on Mac](#installing-on-mac)
 - [Languages](#languages)
 - [Source code](#source-code)
 
@@ -66,7 +70,7 @@ reference with `@`, and much more.
 <img width="1300" height="682" alt="Qenna Writer - distraction-free novel writing editor, dark theme with a photographic background" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-neon.webp" />
 <img width="1200" height="635" alt="Qenna Writer - distraction-free novel writing editor, light theme" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/shot-light.webp" />
 
-## NEW IN 1.5: THE MAP
+## THE MAP
 
 <img width="1500" height="880" alt="Qenna Writer's Map: a generated continent with mountains, forests, roads, cities and kingdoms, seen at an angle in the afternoon" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/map-full.webp" />
 
@@ -123,6 +127,62 @@ at 1×, 2× or 3×, ready for the book.
 This is just the beginning. This tool will get even more turbocharged in the
 next versions. Wait and see.
 
+## NEW IN 2.0: THE GALAXY MAP
+
+<img width="1500" height="938" alt="Qenna Writer's Galaxy Map: a spiral galaxy seen from above, with dozens of named star systems along its arms" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/galaxy-full.webp" />
+
+The map maker of 1.5 was built for fantasy. And the friends who, like me,
+love good old science fiction and space operas were left in the corner of
+the party.
+
+Not anymore.
+
+The Galaxy Map works almost exactly like the fantasy map: territories,
+groups, subgroups, connections, exploring, reading, editing. What you
+already know. Except now on a **galactic** scale. Create planets, moons and
+solar systems, build around them, write about them. Start from the Milky
+Way (our own backyard, the Solar System, included), Andromeda, M87 or the
+Sombrero, or create your own.
+
+### Two ways to build it: Navigator and Astronomer
+
+**Navigator** is a fully interactive 3D universe: fly between systems,
+follow the orbits, build in plain sight. More freedom to look around, and
+more work before the story really gets going there.
+
+**Astronomer** works through text and documents. Write only what you want
+and watch the universe take shape through your words, with a few 3D toys
+along the way.
+
+Same goal, different way of working. Pick the one that suits you.
+
+<img width="1500" height="938" alt="Qenna Writer's Galaxy Map - the New galaxy window, with the Navigator and Astronomer modes and their pros and cons" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/galaxy-new-hover.webp" />
+<img width="1500" height="938" alt="Qenna Writer's Galaxy Map - Astronomer mode: worlds by territory, a document about a planet, and its system in 3D" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/galaxy-astronomer.webp" />
+
+### Real physics, no homework
+
+Mass, radius, gravity, density, temperature, the length of a day and of a
+year: every body gets physical data generated from solid theory, plus a
+habitability class from **I to VI**. Keep the numbers, change them, or
+ignore them. The story decides.
+
+<img width="1500" height="938" alt="Qenna Writer's Galaxy Map - a planet's sheet with temperature, gravity, year, day and habitability class" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/galaxy-planet-sheet.webp" />
+<img width="1500" height="938" alt="Qenna Writer's Galaxy Map - the Data tab: mass, radius, gravity, density, temperature and atmosphere" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/galaxy-planet-data.webp" />
+
+### Build in orbit
+
+Orbital rings, fleets, orbital cities, stations, all the way up to
+gigantic **Dyson spheres**. Each one is a place you can name and write
+about.
+
+<img width="1500" height="938" alt="Qenna Writer's Galaxy Map - a planet with an orbital ring, a fleet, an orbital city and a station" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/galaxy-structures.webp" />
+<img width="1500" height="938" alt="Qenna Writer's Galaxy Map - a whole star system around a star enclosed in a Dyson sphere" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/galaxy-system.webp" />
+
+And also: the Full, Atlas, Sky, Infrared and Ink views, **organic
+seeding** (systems appear as territories grow, and planets can populate
+themselves), documents saved to a drawer or to the World Builder, **PNG
+export**, and a guide to both modes in the Help panel.
+
 ## Organize whatever you want
 
 Through drawers and document management, build and organize your project
@@ -162,6 +222,13 @@ Get instant access to everything your characters have ever said. The app
 automatically logs every line of dialogue, giving you fast, reliable
 recall whenever you need it. Never forget what they said — or where they
 said it.
+
+**Character sheets**, rebuilt in 2.0: create the fields you want, delete the
+ones you don't, and pick a layout. Tabs, Magazine, Case file, Infobox or
+Dossier, switchable anytime.
+
+<img width="1500" height="938" alt="Qenna Writer - a character sheet in the Case file layout: photo, short fields and long sections with an index" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/sheet-casefile.webp" />
+<img width="1500" height="938" alt="Qenna Writer - the same character sheet in the Tabs layout" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/sheet-tabs.webp" />
 
 <img width="365" height="801" alt="Qenna Writer - character relationship and bonds graph for novelists" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/bonds.webp" />
 <img width="440" height="244" alt="Qenna Writer - automatic character dialogue log, each line under whoever said it" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/dialogo.webp" />
@@ -307,13 +374,13 @@ music to help you lose yourself in your writing. You can add your own
 custom sounds too.
 
 
-**Make it yours!** — Qenna Writer comes with 382 built-in Themes by
+**Make it yours!** — Qenna Writer comes with 473 built-in Themes by
 default. That's Themes for days — nobody's got anything to complain about.
 But on the off chance none of them speak to you, feel free to build your
 own custom Themes! Background images, editor color, panel color, text
 color — everything is customizable and within reach.
 
-<img width="1198" height="759" alt="Qenna Writer - 382 built-in themes, with search, categories and a preview of each one" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-themes.webp" />
+<img width="1198" height="759" alt="Qenna Writer - 473 built-in themes, with search, categories and a preview of each one" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-themes.webp" />
 <img width="1196" height="726" alt="Qenna Writer - the Patterned filter: themes with photographic backgrounds" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-patterns.webp" />
 <img width="1001" height="736" alt="Qenna Writer - the Theme Creator: background image, gradient, vignette and grain" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-theme-creator.webp" />
 <img width="1199" height="720" alt="Qenna Writer - two themes compared side by side before switching" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-compare.webp" />
@@ -334,6 +401,23 @@ time you run the installer. This is expected for independent software —
 click **More info → Run anyway** to proceed. The installer is built openly
 from [public source code](https://github.com/Pedrovskigg/qenna-writer),
 so you can always verify what it does.
+
+## Installing on Mac
+
+Qenna Writer for Mac runs on **macOS 12 or later**, on Apple silicon and
+Intel. Open the `.dmg` and drag Qenna Writer into Applications.
+
+It isn't signed with a paid Apple certificate, so the first time you open
+it macOS will say it can't verify the developer. Go to **System Settings →
+Privacy & Security** and click **Open Anyway** next to Qenna Writer. You only
+need to do it once.
+
+If macOS says the app "is damaged and can't be opened", open Terminal,
+paste this line and press Enter:
+
+```
+xattr -cr "/Applications/Qenna Writer.app"
+```
 
 ## Languages
 
