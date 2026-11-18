@@ -374,13 +374,13 @@ music to help you lose yourself in your writing. You can add your own
 custom sounds too.
 
 
-**Make it yours!** — Qenna Writer comes with 473 built-in Themes by
+**Make it yours!** — Qenna Writer comes with 519 built-in Themes by
 default. That's Themes for days — nobody's got anything to complain about.
 But on the off chance none of them speak to you, feel free to build your
 own custom Themes! Background images, editor color, panel color, text
 color — everything is customizable and within reach.
 
-<img width="1198" height="759" alt="Qenna Writer - 473 built-in themes, with search, categories and a preview of each one" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-themes.webp" />
+<img width="1198" height="759" alt="Qenna Writer - 519 built-in themes, with search, categories and a preview of each one" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-themes.webp" />
 <img width="1196" height="726" alt="Qenna Writer - the Patterned filter: themes with photographic backgrounds" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-patterns.webp" />
 <img width="1001" height="736" alt="Qenna Writer - the Theme Creator: background image, gradient, vignette and grain" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-theme-creator.webp" />
 <img width="1199" height="720" alt="Qenna Writer - two themes compared side by side before switching" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-compare.webp" />
