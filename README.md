@@ -1,4 +1,4 @@
-<img width="1600" height="485" alt="Qenna Writer" src="img/qenna-logo.webp" />
+<img width="1600" height="533" alt="Qenna Writer: the writing app for people who write whole worlds. Manuscript, maps, galaxies, timeline, board, free." src="img/hero-banner.webp" />
 
 **Your temple of creativity.**
 
@@ -270,11 +270,24 @@ Create posts, cards, and comments, leave notes on them, connect them to
 one another. Add images, symbols, titles. Will your board be organized, or
 beautifully chaotic? You decide.
 
+<img width="2000" height="1200" alt="Qenna Writer - The Board: three acts as areas, notes and index cards, a chapter card, red string between the clues, the cast with their portraits and a row of reference images" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/board-full.webp" />
+
+Drag a character in from the drawer and the photo from their sheet comes
+along. Pull red string from pin to pin, name it, give it a colour: siblings,
+the deal, the secret nobody tells. Drop a chapter onto the board and click
+**open →** to go straight back to the text.
+
+<img width="49%" alt="Qenna Writer - The Board: character cards with painted portraits, linked by coloured strings" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/board-cast.webp" /> <img width="49%" alt="Qenna Writer - The Board: image cards with captions, paintings and a landscape photo" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/board-mood.webp" />
+
 Everything you build on the Board — every card, planning area, comment —
 can be exported straight into drawers.
 
+And if you want to take it further, the Board goes as far as you do:
+moodboards, film stills, handwritten notes, a wall of images for every act.
+
 <img width="1300" height="693" alt="Qenna Writer - The Board, a corkboard plotting tool for novelists" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-board.webp" />
 <img width="1300" height="700" alt="Qenna Writer - The Board: scene-by-scene notes and film stills planning a whole act" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/panel-board-act.webp" />
+<img width="1600" height="762" alt="Qenna Writer - The Board: a whole act laid out as a wall of images, with the synopsis written on top" src="https://raw.githubusercontent.com/Pedrovskigg/Qenna-Writer-releases/main/img/board-wild.webp" />
 
 ### 2. The Builder
 
